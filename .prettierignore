@@ -1,0 +1,12 @@
+.vscode
+node_modules
+public
+.env-cmdrc
+.gitignore
+package-lock.json
+build
+coverage
+dist
+docs
+azure-pipelines.yml
+tailwind-output.css

@@ -6,15 +6,15 @@ i18n.use(initReactI18next).init({
     en: {
       translation: {
         // Your translations
-      },
-    },
+      }
+    }
     // Add other languages here
   },
   lng: "en",
   fallbackLng: "en",
   interpolation: {
-    escapeValue: false,
-  },
+    escapeValue: false
+  }
 });
 
 export default i18n;
